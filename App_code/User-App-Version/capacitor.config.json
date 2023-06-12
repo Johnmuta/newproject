@@ -1,0 +1,6 @@
+{
+	"appId": "io.initappz.grocery.ultimate.user",
+	"appName": "Grocery",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
